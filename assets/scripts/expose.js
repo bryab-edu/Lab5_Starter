@@ -57,7 +57,7 @@ function init() {
       volI.src = "assets/icons/volume-level-1.svg";
       volI.alt = "Volume level 1";
     }
-    if(volA.value == 0){ // volume icon is off when slider is at 0
+    if(volA.value == 0){
       volI.src = "assets/icons/volume-level-0.svg";
       volI.alt = "Volume level off";
     }
