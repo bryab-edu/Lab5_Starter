@@ -4,6 +4,6 @@ Bryan Canonizado
 1. No, I wouldn't use a JUnit test for testing the whole "message" feature as the cons in the markup describe how individual components can't interact with each other and testing the whole feature seems to involve a lot more than simple logical issues (i.e validation).
 2. Yes, max length seems like a logistics issue that can be tested more "simply"
 
-[explore](explore.html)
-[expose](expose.html)
+[explore](https://bryab-edu.github.io/Lab5_Starter/explore)
+[expose](https://bryab-edu.github.io/Lab5_Starter/expose)
 
